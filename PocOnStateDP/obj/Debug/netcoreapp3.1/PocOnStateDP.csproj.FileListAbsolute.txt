@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\bin\Debug\netcoreapp3.1\PocOnStateDP.exe
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\bin\Debug\netcoreapp3.1\PocOnStateDP.deps.json
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\bin\Debug\netcoreapp3.1\PocOnStateDP.runtimeconfig.json
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\bin\Debug\netcoreapp3.1\PocOnStateDP.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\bin\Debug\netcoreapp3.1\PocOnStateDP.dll
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\bin\Debug\netcoreapp3.1\PocOnStateDP.pdb
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\obj\Debug\netcoreapp3.1\PocOnStateDP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\obj\Debug\netcoreapp3.1\PocOnStateDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\obj\Debug\netcoreapp3.1\PocOnStateDP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\obj\Debug\netcoreapp3.1\PocOnStateDP.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\obj\Debug\netcoreapp3.1\PocOnStateDP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\obj\Debug\netcoreapp3.1\PocOnStateDP.dll
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\obj\Debug\netcoreapp3.1\PocOnStateDP.pdb
+C:\Users\Lenovo\source\repos\PocOnStateDP\PocOnStateDP\obj\Debug\netcoreapp3.1\PocOnStateDP.genruntimeconfig.cache
